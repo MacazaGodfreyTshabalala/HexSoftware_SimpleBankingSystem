@@ -3,13 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/Transaction.java</file>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/FastCash.java</file>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/FirstDeposit.java</file>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/Deposit.java</file>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/Withdrawal.java</file>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/DBConnection.java</file>
-            <file>file:/F:/JavaProjects/SimpleBankingSystem/src/simplebankingsystem/SimpleBankingSystem.java</file>
+            <file>file:/C:/Users/Tshabalala%20MG/Desktop/HexSoftware_SimpleBankingSystem/HexSoftware_SimpleBankingSystem/SimpleBankingSystem/src/simplebankingsystem/BankAccount.java</file>
+            <file>file:/C:/Users/Tshabalala%20MG/Desktop/HexSoftware_SimpleBankingSystem/HexSoftware_SimpleBankingSystem/SimpleBankingSystem/src/simplebankingsystem/SignUpPg3.java</file>
+            <file>file:/C:/Users/Tshabalala%20MG/Desktop/HexSoftware_SimpleBankingSystem/HexSoftware_SimpleBankingSystem/SimpleBankingSystem/src/simplebankingsystem/MiniStatement.java</file>
         </group>
     </open-files>
 </project-private>
